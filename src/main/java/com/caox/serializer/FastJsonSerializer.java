@@ -3,12 +3,7 @@ package com.caox.serializer;
 import com.alibaba.fastjson.JSON;
 import lombok.extern.slf4j.Slf4j;
 
-/**
- * Json序列化、反序列化
- * 选用fastjson框架
- * @author : pety
- * @date : 2022/7/16 16:58
- */
+
 @Slf4j
 public class FastJsonSerializer implements Serializer {
 
